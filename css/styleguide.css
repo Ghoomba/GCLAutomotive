@@ -1,0 +1,17 @@
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --gray: rgba(166, 166, 166, 1);
+    --white: rgba(255, 255, 255, 1);
+    --button-text-semibold-font-family: "Sora", Helvetica;
+    --button-text-semibold-font-weight: 600;
+    --button-text-semibold-font-size: 20px;
+    --button-text-semibold-letter-spacing: 0.4px;
+    --button-text-semibold-line-height: 24px;
+    --button-text-semibold-font-style: normal;
+    --input-field-label-font-family: "Roboto", Helvetica;
+    --input-field-label-font-weight: 400;
+    --input-field-label-font-size: 9px;
+    --input-field-label-letter-spacing: 1.8px;
+    --input-field-label-line-height: normal;
+    --input-field-label-font-style: normal;
+}
